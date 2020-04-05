@@ -1,6 +1,7 @@
 body {
     width: 100vw;
     height: 100vh;
+    margin: 0px;
 }
 
 .titlebar {
@@ -15,9 +16,11 @@ body {
     display: block;
     height: 20%;
 }
-.Title {
-    font-size: 100px;
+.card .Title {
+    font-size: 50px;
+    margin: 16px;
 }
-.Paragraphs {
+.card .Paragraphs {
     font-size:25px;
+    margin: 16px;
 }

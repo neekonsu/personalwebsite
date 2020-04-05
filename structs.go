@@ -2,7 +2,6 @@ package personalwebsite
 
 import (
 	"math/rand"
-	"time"
 )
 
 // ColorPalette represents all the colors that the site will take
@@ -28,31 +27,28 @@ type Card struct {
 }
 
 // PickColor returns a single random color from the colorpalette
-func (c *ColorPalette) PickColor() string {
-	return c.Colors[rand.Intn(len(c.Colors))]
+func (c *ColorPalette) PickColor() (string, int) {
+	// rand.Seed(time.Now().Unix()) // initialize global pseudo random generator
+	index := rand.Intn(len(c.Colors))
+	output := c.Colors[index]
+	return output, index
 }
 
-// NewColor picks a random color other than the current color
-func (c *Card) NewColor(palette ColorPalette, not ...[]string) {
-	tempColor := palette.PickColor()
-	for { // this method will limit the number of sections to the length of the color palette;
-		// if you have equal to or greater than the number of colors in sections, then this loop will stack overflow
-		collision := false
-		for _, colorSlice := range not {
-			for _, color := range colorSlice {
-				if color == tempColor {
-					tempColor = palette.PickColor()
-					collision = true
-				}
+// PopulateColors picks a random color other than the current color
+func (p *Page) PopulateColors(palette ColorPalette) {
+	cardColors := make([]*string, len(p.Cards))
+	for i := range p.Cards {
+		cardColors = append(cardColors, &p.Cards[i].Color)
+	}
+	for i := range cardColors {
+		color, index := palette.PickColor()
+		if pointer := cardColors[i]; pointer != nil {
+			*pointer = color
+			if index != len(palette.Colors)-1 {
+				palette.Colors = append(palette.Colors[:index], palette.Colors[index+1:]...)
+			} else {
+				palette.Colors = palette.Colors[:index]
 			}
 		}
-		if !collision {
-			c.Color = tempColor
-			break
-		}
 	}
-}
-
-func init() {
-	rand.Seed(time.Now().Unix()) // initialize global pseudo random generator
 }

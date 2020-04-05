@@ -9,35 +9,35 @@
                 "Now that I think about it, this one seems like a pretty good option",
                 "But ultimately, I don't think it matters, since this is just a placeholder :)"],
             "url":"https://nsaadat.xyz/home/project1",
-            "color":"#6FCCFF"},
+            "color":""},
             {"title": "First Project",
-                "paragraphs":[
-                    "I was thinking that this could represent Paragraph 1",
-                    "Although maybe this should have been",
-                    "Now that I think about it, this one seems like a pretty good option",
-                    "But ultimately, I don't think it matters, since this is just a placeholder :)"],
-                "url":"https://nsaadat.xyz/home/project1",
-                "color":"#6FCCFF"},
+            "paragraphs":[
+                "I was thinking that this could represent Paragraph 1",
+                "Although maybe this should have been",
+                "Now that I think about it, this one seems like a pretty good option",
+                "But ultimately, I don't think it matters, since this is just a placeholder :)"],
+            "url":"https://nsaadat.xyz/home/project1",
+            "color":""},
             {"title": "First Project",
-                "paragraphs":[
-                    "I was thinking that this could represent Paragraph 1",
-                    "Although maybe this should have been",
-                    "Now that I think about it, this one seems like a pretty good option",
-                    "But ultimately, I don't think it matters, since this is just a placeholder :)"],
-                "url":"https://nsaadat.xyz/home/project1",
-                "color":"#6FCCFF"},
+            "paragraphs":[
+                "I was thinking that this could represent Paragraph 1",
+                "Although maybe this should have been",
+                "Now that I think about it, this one seems like a pretty good option",
+                "But ultimately, I don't think it matters, since this is just a placeholder :)"],
+            "url":"https://nsaadat.xyz/home/project1",
+            "color":""},
             {"title": "First Project",
-                "paragraphs":[
-                    "I was thinking that this could represent Paragraph 1",
-                    "Although maybe this should have been",
-                    "Now that I think about it, this one seems like a pretty good option",
-                    "But ultimately, I don't think it matters, since this is just a placeholder :)"],
-                "url":"https://nsaadat.xyz/home/project1",
-                "color":"#6FCCFF"}
+            "paragraphs":[
+                "I was thinking that this could represent Paragraph 1",
+                "Although maybe this should have been",
+                "Now that I think about it, this one seems like a pretty good option",
+                "But ultimately, I don't think it matters, since this is just a placeholder :)"],
+            "url":"https://nsaadat.xyz/home/project1",
+            "color":""}
         ]
     },
     "portfolio": {
-        "title": "Home Sweet Home",
+        "title": "Portfolio",
         "cards": [
             {"title": "First Project",
             "paragraphs":[
@@ -46,35 +46,35 @@
                 "Now that I think about it, this one seems like a pretty good option",
                 "But ultimately, I don't think it matters, since this is just a placeholder :)"],
             "url":"https://nsaadat.xyz/home/project1",
-            "color":"#6FCCFF"},
+            "color":""},
             {"title": "First Project",
-                "paragraphs":[
-                    "I was thinking that this could represent Paragraph 1",
-                    "Although maybe this should have been",
-                    "Now that I think about it, this one seems like a pretty good option",
-                    "But ultimately, I don't think it matters, since this is just a placeholder :)"],
-                "url":"https://nsaadat.xyz/home/project1",
-                "color":"#6FCCFF"},
+            "paragraphs":[
+                "I was thinking that this could represent Paragraph 1",
+                "Although maybe this should have been",
+                "Now that I think about it, this one seems like a pretty good option",
+                "But ultimately, I don't think it matters, since this is just a placeholder :)"],
+            "url":"https://nsaadat.xyz/home/project1",
+            "color":""},
             {"title": "First Project",
-                "paragraphs":[
-                    "I was thinking that this could represent Paragraph 1",
-                    "Although maybe this should have been",
-                    "Now that I think about it, this one seems like a pretty good option",
-                    "But ultimately, I don't think it matters, since this is just a placeholder :)"],
-                "url":"https://nsaadat.xyz/home/project1",
-                "color":"#6FCCFF"},
+            "paragraphs":[
+                "I was thinking that this could represent Paragraph 1",
+                "Although maybe this should have been",
+                "Now that I think about it, this one seems like a pretty good option",
+                "But ultimately, I don't think it matters, since this is just a placeholder :)"],
+            "url":"https://nsaadat.xyz/home/project1",
+            "color":""},
             {"title": "First Project",
-                "paragraphs":[
-                    "I was thinking that this could represent Paragraph 1",
-                    "Although maybe this should have been",
-                    "Now that I think about it, this one seems like a pretty good option",
-                    "But ultimately, I don't think it matters, since this is just a placeholder :)"],
-                "url":"https://nsaadat.xyz/home/project1",
-                "color":"#6FCCFF"}
+            "paragraphs":[
+                "I was thinking that this could represent Paragraph 1",
+                "Although maybe this should have been",
+                "Now that I think about it, this one seems like a pretty good option",
+                "But ultimately, I don't think it matters, since this is just a placeholder :)"],
+            "url":"https://nsaadat.xyz/home/project1",
+            "color":""}
         ]
     },
     "bio": {
-        "title": "Home Sweet Home",
+        "title": "Biography",
         "cards": [
             {"title": "First Project",
             "paragraphs":[
@@ -83,31 +83,68 @@
                 "Now that I think about it, this one seems like a pretty good option",
                 "But ultimately, I don't think it matters, since this is just a placeholder :)"],
             "url":"https://nsaadat.xyz/home/project1",
-            "color":"#6FCCFF"},
+            "color":""},
             {"title": "First Project",
-                "paragraphs":[
-                    "I was thinking that this could represent Paragraph 1",
-                    "Although maybe this should have been",
-                    "Now that I think about it, this one seems like a pretty good option",
-                    "But ultimately, I don't think it matters, since this is just a placeholder :)"],
-                "url":"https://nsaadat.xyz/home/project1",
-                "color":"#6FCCFF"},
+            "paragraphs":[
+                "I was thinking that this could represent Paragraph 1",
+                "Although maybe this should have been",
+                "Now that I think about it, this one seems like a pretty good option",
+                "But ultimately, I don't think it matters, since this is just a placeholder :)"],
+            "url":"https://nsaadat.xyz/home/project1",
+            "color":""},
             {"title": "First Project",
-                "paragraphs":[
-                    "I was thinking that this could represent Paragraph 1",
-                    "Although maybe this should have been",
-                    "Now that I think about it, this one seems like a pretty good option",
-                    "But ultimately, I don't think it matters, since this is just a placeholder :)"],
-                "url":"https://nsaadat.xyz/home/project1",
-                "color":"#6FCCFF"},
+            "paragraphs":[
+                "I was thinking that this could represent Paragraph 1",
+                "Although maybe this should have been",
+                "Now that I think about it, this one seems like a pretty good option",
+                "But ultimately, I don't think it matters, since this is just a placeholder :)"],
+            "url":"https://nsaadat.xyz/home/project1",
+            "color":""},
             {"title": "First Project",
-                "paragraphs":[
-                    "I was thinking that this could represent Paragraph 1",
-                    "Although maybe this should have been",
-                    "Now that I think about it, this one seems like a pretty good option",
-                    "But ultimately, I don't think it matters, since this is just a placeholder :)"],
-                "url":"https://nsaadat.xyz/home/project1",
-                "color":"#6FCCFF"}
+            "paragraphs":[
+                "I was thinking that this could represent Paragraph 1",
+                "Although maybe this should have been",
+                "Now that I think about it, this one seems like a pretty good option",
+                "But ultimately, I don't think it matters, since this is just a placeholder :)"],
+            "url":"https://nsaadat.xyz/home/project1",
+            "color":""}
+        ]
+    },
+    "pagenotfound": {
+        "title": "Page Not Found",
+        "cards": [
+            {"title": "First Project",
+            "paragraphs":[
+                "I was thinking that this could represent Paragraph 1",
+                "Although maybe this should have been",
+                "Now that I think about it, this one seems like a pretty good option",
+                "But ultimately, I don't think it matters, since this is just a placeholder :)"],
+            "url":"https://nsaadat.xyz/home/project1",
+            "color":""},
+            {"title": "First Project",
+            "paragraphs":[
+                "I was thinking that this could represent Paragraph 1",
+                "Although maybe this should have been",
+                "Now that I think about it, this one seems like a pretty good option",
+                "But ultimately, I don't think it matters, since this is just a placeholder :)"],
+            "url":"https://nsaadat.xyz/home/project1",
+            "color":""},
+            {"title": "First Project",
+            "paragraphs":[
+                "I was thinking that this could represent Paragraph 1",
+                "Although maybe this should have been",
+                "Now that I think about it, this one seems like a pretty good option",
+                "But ultimately, I don't think it matters, since this is just a placeholder :)"],
+            "url":"https://nsaadat.xyz/home/project1",
+            "color":""},
+            {"title": "First Project",
+            "paragraphs":[
+                "I was thinking that this could represent Paragraph 1",
+                "Although maybe this should have been",
+                "Now that I think about it, this one seems like a pretty good option",
+                "But ultimately, I don't think it matters, since this is just a placeholder :)"],
+            "url":"https://nsaadat.xyz/home/project1",
+            "color":""}
         ]
     }
 }
