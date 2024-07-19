@@ -11,7 +11,7 @@ type Config struct {
 func Load() *Config {
 	port := os.Getenv("PORT")
 	if port == "" {
-		port = "8080" // default port
+		port = "80" // default port
 	}
 
 	return &Config{
